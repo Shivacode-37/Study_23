@@ -1,6 +1,11 @@
 ipykernel (pip install ipykernel)
 conda create -p venv python==3.12
 pip install numpy
+git clone git@github.com:Shivacode-37/Study__23.git
+git add .
+git commit -m "update"
+git push
+
 
 {
 ## Work flow suggestion
